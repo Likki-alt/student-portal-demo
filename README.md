@@ -1,2 +1,10 @@
 # student-portal-demo
-experiment 3
+Student Name:
+Registration number:
+Mobile number:
+roll number:
+adhaar Number:
+Mother name:
+Father name:
+Student E.mail address:
+Alternaate Mail:
